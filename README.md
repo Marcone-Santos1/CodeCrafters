@@ -50,11 +50,6 @@
 
 - [Roadmap.sh](https://roadmap.sh)
 
-
-## Telegram 🏴‍☠️
-
-- [Be polemic](https://t.me/+zBhXq7zXbHVmZTEx)
-
 ## Canais no yt
 
 - [Lógica](https://www.youtube.com/@CursoemVideo/videos)
