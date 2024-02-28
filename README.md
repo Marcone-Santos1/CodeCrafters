@@ -35,6 +35,7 @@
 	- [CodeSandbox](https://codesandbox.io/dashboard/recent)
 	- [Ide online](https://www.online-ide.com)
 	- [Replit (Recomendada)](https://www.online-ide.com)
+	- [W3schools](https://www.w3schools.com/)
 
 - Android
 	- [Apps para codar](https://blog.impulso.team/os-6-melhores-apps-para-facilitar-a-vida-de-devs-ctbp/)
@@ -59,3 +60,7 @@
 - [Lógica](https://www.youtube.com/@CursoemVideo/videos)
 - [Lógica](https://youtu.be/iF2MdbrTiBM?si=kn1X8g9aQG6aVRZw)
 - [Dev aprender](https://www.youtube.com/@DevAprender)
+- [Sujeito programador](https://www.youtube.com/@Sujeitoprogramador)
+- [ProgramadorBr](https://www.youtube.com/@Programadorbr)
+- [ProgramadorBrTutoriais](https://www.youtube.com/@ProgramadorBrTutoriais)
+- [B7web](https://www.youtube.com/@bonieky)
